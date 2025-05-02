@@ -9,9 +9,17 @@ namespace DataAccessLayer
         public DbSet<Detail> Details => Set<Detail>();
         public DbSet<Production> Productions => Set<Production>();
 
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=details.db");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlite("Data Source=details.db");
+            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

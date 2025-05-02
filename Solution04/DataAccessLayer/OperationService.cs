@@ -30,7 +30,7 @@ namespace DataAccessLayer
 
         public void DeleteOperation(int id)
         {
-            var operation = _context.Operations.Find(id);
+            var operation = _context.Operations.Find((short)id);
             if (operation != null)
             {
                 _context.Operations.Remove(operation);

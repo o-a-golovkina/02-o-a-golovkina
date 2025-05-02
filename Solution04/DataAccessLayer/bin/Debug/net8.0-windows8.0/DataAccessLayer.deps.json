@@ -701,6 +701,10 @@
       },
       "System.Threading.Channels/6.0.0": {},
       "DomainTables/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.0"
+        },
         "runtime": {
           "DomainTables.dll": {
             "assemblyVersion": "1.0.0.0",

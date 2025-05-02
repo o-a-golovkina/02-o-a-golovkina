@@ -12,3 +12,4 @@ D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8
 D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\ref\DomainTables.dll
 D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\bin\Debug\net8.0\DomainTables.runtimeconfig.json
 D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.genruntimeconfig.cache
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.csproj.AssemblyReference.cache

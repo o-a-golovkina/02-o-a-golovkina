@@ -31,7 +31,7 @@ namespace DataAccessLayer
 
         public void DeleteDetail(int id)
         {
-            var detail = _context.Details.Find(id);
+            var detail = _context.Details.Find((short)id);
             if (detail != null)
             {
                 _context.Details.Remove(detail);

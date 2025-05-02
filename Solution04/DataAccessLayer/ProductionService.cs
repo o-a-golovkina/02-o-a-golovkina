@@ -35,7 +35,7 @@ namespace DataAccessLayer
         public void DeleteProduction(int detailId, int operationNumber)
         {
             var production = _context.Productions
-                .FirstOrDefault(p => p.DetailId == detailId && p.OperationNumber == operationNumber);
+                .FirstOrDefault(p => p.CodeDetail == detailId && p.OperationNumber == operationNumber);
 
             if (production != null)
             {

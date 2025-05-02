@@ -1,7 +1,10 @@
-﻿namespace DomainTables
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace DomainTables
 {
     public class Detail
     {
+        [Key]
         public short CodeDetail { get; set; } //PK
         public string Name { get; set; } = string.Empty;
         public string Brand { get; set; } = string.Empty; //до 10 символів

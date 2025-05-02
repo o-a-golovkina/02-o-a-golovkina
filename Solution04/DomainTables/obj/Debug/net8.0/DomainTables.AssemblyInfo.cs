@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomainTables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1396378186c9374c603bbd27216eaa6eaf13a7fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9b9c62103788852e4cb2b143312ebd956d65ad9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomainTables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomainTables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
