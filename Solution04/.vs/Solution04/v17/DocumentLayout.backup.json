@@ -122,8 +122,8 @@
               "Title": "OperationService.cs",
               "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\OperationService.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\OperationService.cs",
-              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\OperationService.cs*",
-              "RelativeToolTip": "DataAccessLayer\\OperationService.cs*",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\OperationService.cs",
+              "RelativeToolTip": "DataAccessLayer\\OperationService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T11:51:28.357Z",
@@ -213,10 +213,6 @@
           "DockedWidth": 115,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
