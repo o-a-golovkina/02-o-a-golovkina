@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\dataaccesslayer\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\dataaccesslayer\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\operationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\dataaccesslayer\\detailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\detailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524EFBCA-AE91-4219-9CB9-EC3F70584943}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\domaintables\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|solutionrelative:domaintables\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\domaintables\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|solutionrelative:domaintables\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|d:\\1khai\\2 semester\\.net\\02-o-a-golovkina\\solution04\\domaintables\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A780B9-A676-465F-A62C-88E2FFC81093}|DomainTables\\DomainTables.csproj|solutionrelative:domaintables\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductionService.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\ProductionService.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductionService.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\ProductionService.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductionService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:51:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationService.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\OperationService.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\OperationService.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\OperationService.cs",
+              "RelativeToolTip": "DataAccessLayer\\OperationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:51:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailService.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\DetailService.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DetailService.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\DetailService.cs",
+              "RelativeToolTip": "DataAccessLayer\\DetailService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:50:22.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:32:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Production.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Production.cs",
+              "RelativeDocumentMoniker": "DomainTables\\Production.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Production.cs",
+              "RelativeToolTip": "DomainTables\\Production.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:53:57.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Operation.cs",
+              "RelativeDocumentMoniker": "DomainTables\\Operation.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Operation.cs",
+              "RelativeToolTip": "DomainTables\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:53:44.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Detail.cs",
+              "RelativeDocumentMoniker": "DomainTables\\Detail.cs",
+              "ToolTip": "D:\\1KHAI\\2 semester\\.Net\\02-o-a-golovkina\\Solution04\\DomainTables\\Detail.cs",
+              "RelativeToolTip": "DomainTables\\Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:52:40.897Z"
             }
           ]
         },

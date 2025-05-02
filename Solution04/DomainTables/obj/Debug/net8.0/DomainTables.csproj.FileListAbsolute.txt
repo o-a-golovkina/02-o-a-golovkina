@@ -1,0 +1,14 @@
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\bin\Debug\net8.0\DomainTables.deps.json
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\bin\Debug\net8.0\DomainTables.dll
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\bin\Debug\net8.0\DomainTables.pdb
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.GeneratedMSBuildEditorConfig.editorconfig
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.AssemblyInfoInputs.cache
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.AssemblyInfo.cs
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.csproj.CoreCompileInputs.cache
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.sourcelink.json
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.dll
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\refint\DomainTables.dll
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.pdb
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\ref\DomainTables.dll
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\bin\Debug\net8.0\DomainTables.runtimeconfig.json
+D:\1KHAI\2 semester\.Net\02-o-a-golovkina\Solution04\DomainTables\obj\Debug\net8.0\DomainTables.genruntimeconfig.cache
